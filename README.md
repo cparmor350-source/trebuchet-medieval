@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Proyecto Trebuchet 
 
 ### Precision en cada lanzamiento
@@ -6,7 +6,7 @@
 
 =======
 ![alt text](image.png)
->>>>>>> a81d6c2d955b478af55acbb960dd72eea96e14de
+
 
 ## Tabla de Contenidos
 
@@ -38,6 +38,7 @@ El tribuchet es un arma de asedio medieval utilizada principalmente para destrui
 *Descomprimimos y copiamos su contenido en el fichero que se nos ha creado.*
 #### Quinto paso (Opcional):
 *Añade el juego a steam para poder jugar con amigos.*
+<<<<<<< HEAD
 >>>>>>> d5638c1873e956d9fbf56f5a12b9a9275b6ca48a
 
 ## Instrucciones Operacionales
@@ -70,3 +71,10 @@ Para operar el trébuchet correctamente, sigue estos pasos:
 
 
 
+=======
+
+## Agradecimientos
+
+*Agradecimientos a carlos por dejarme colaborar con el en este proyecto*.  
+Tambien muchas gracias a todos lo que veais esto.
+>>>>>>> 2772d2532745ce65a5b67ed3a56cdc565051acd3
