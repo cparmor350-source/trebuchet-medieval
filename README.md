@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Proyecto Trebuchet 
 
 ### Precision en cada lanzamiento
@@ -21,3 +22,20 @@ La motivación principal de este proyecto es que nos interesan mucho las maquina
 
 La experiencia ha sido muy positiva, ya que aprendimos cosas nuevas, compartimos ideas y nos organizamos para sacar el proyecto adelante. También fue divertido ver cómo un tema tan antiguo se puede trabajar de una forma creativa y actual.
 
+=======
+![alt text](image.png)
+## Que es el Tribuchet
+El tribuchet es un arma de asedio medieval utilizada principalmente para destruir murallas de castillos o para lanzar proyectiles por encima de ellas. Fue la máquina de asedio dominante en Europa entre los siglos IX y XIV, antes de la llegada de la pólvora.
+## INSTALACION
+#### Primer paso:
+*Descargamos todos los archivos comprimidos.*
+#### Segundo paso:
+*Descomprimimos los archivos poniendo la contraseña (elamigos).*
+#### Tercer paso:
+*Descargamos el fichero de fix online.*
+
+#### Cuarto Paso:
+*Descomprimimos y copiamos su contenido en el fichero que se nos ha creado.*
+#### Quinto paso (Opcional):
+*Añade el juego a steam para poder jugar con amigos.*
+>>>>>>> d5638c1873e956d9fbf56f5a12b9a9275b6ca48a
