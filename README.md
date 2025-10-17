@@ -39,3 +39,34 @@ El tribuchet es un arma de asedio medieval utilizada principalmente para destrui
 #### Quinto paso (Opcional):
 *Añade el juego a steam para poder jugar con amigos.*
 >>>>>>> d5638c1873e956d9fbf56f5a12b9a9275b6ca48a
+
+## Instrucciones Operacionales
+
+Para operar el trébuchet correctamente, sigue estos pasos:
+
+1. **Preparación:**
+   Asegúrate de que el trébuchet esté en una superficie estable y nivelada.
+   Verifica que todas las piezas estén bien ensambladas y aseguradas.
+
+2. **Carga:**
+   Coloca la carga (piedra, bola, etc.) dentro de la canasta o soporte del brazo lanzador.
+   Tira del contrapeso hacia abajo (o del brazo lanzador hacia arriba, según el diseño) para tensar el sistema.
+
+3. **Bloqueo:**
+   Asegura el mecanismo de bloqueo que mantiene el brazo en posición de tensión.
+
+4. **Apuntado:**
+    Orienta el trébuchet hacia el objetivo deseado, ajustando la dirección y el ángulo si es posible.
+
+5. **Disparo:**
+    Libera el mecanismo de bloqueo para soltar el brazo.
+    El contrapeso caerá, impulsando el brazo y lanzando la carga hacia el objetivo.
+
+6. **Seguridad:**
+    Aléjate inmediatamente después de soltar el disparador.
+    No coloques ninguna parte del cuerpo en la trayectoria del brazo o la carga.
+
+
+
+
+
