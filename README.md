@@ -38,4 +38,8 @@ El tribuchet es un arma de asedio medieval utilizada principalmente para destrui
 *Descomprimimos y copiamos su contenido en el fichero que se nos ha creado.*
 #### Quinto paso (Opcional):
 *Añade el juego a steam para poder jugar con amigos.*
->>>>>>> d5638c1873e956d9fbf56f5a12b9a9275b6ca48a
+
+## Agradecimientos
+
+*Agradecimientos a carlos por dejarme colaborar con el en este proyecto*.  
+Tambien muchas gracias a todos lo que veais esto.
